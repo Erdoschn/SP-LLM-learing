@@ -1,0 +1,3402 @@
+[
+  {
+    "title": "Vergesslichkeit (Vorklinik)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=1211698",
+    "keywords": "Alzheimer-Krankheit",
+    "language": "German",
+    "institution": "",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": null
+  },
+  {
+    "title": "78-letnia kobieta z masywnymi krwiakami",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000293",
+    "keywords": "ICD10 [D69.5] Secondary Thrombocytopenia",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000293"
+  },
+  {
+    "title": "19-letnia uczennica z bólem gardła",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000295",
+    "keywords": "ICD10 [B27] Infectious Mononucleosis",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000295"
+  },
+  {
+    "title": "57-letnia agentka ubezpieczeniowa z suchością oczu i jamy ustnej",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000296",
+    "keywords": "ICD10 [M35] Sjögren-Syndrome",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000296"
+  },
+  {
+    "title": "Natalia Olaru",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000297",
+    "keywords": "Neck mass",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000297"
+  },
+  {
+    "title": "Silvia Vlasa",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000298",
+    "keywords": "Abnormal serum calcium",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000298"
+  },
+  {
+    "title": "Dora   Radu",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000299",
+    "keywords": "Abdominal pain / Vomiting",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000299"
+  },
+  {
+    "title": "Toma Bizo",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000300",
+    "keywords": "Abdominal epigastric pain",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000300"
+  },
+  {
+    "title": "Cristian Veseli",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000304",
+    "keywords": "Skin erythema and dermatitis",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000304"
+  },
+  {
+    "title": "Hortensia Florescu",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000306",
+    "keywords": "Vaginal bleeding",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000306"
+  },
+  {
+    "title": "Petru Gavris",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000308",
+    "keywords": "Visual loss  Blurred vision",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000308"
+  },
+  {
+    "title": "Peter Gavris",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000309",
+    "keywords": "Visual loss  Blurred vision",
+    "language": "English",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000309"
+  },
+  {
+    "title": "Octav Simescu",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000311",
+    "keywords": "Red eye",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000311"
+  },
+  {
+    "title": "Emilut Florea",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000312",
+    "keywords": "Visual disturbance / loss",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000312"
+  },
+  {
+    "title": "Emil Florea",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000313",
+    "keywords": "Visual disturbance / loss",
+    "language": "English",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000313"
+  },
+  {
+    "title": "Rada Mihoc",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000321",
+    "keywords": "Prolapse / Pelvic relaxation",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000321"
+  },
+  {
+    "title": "Ana Damian",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000325",
+    "keywords": "Chronic arthralgia / Hypertension",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000325"
+  },
+  {
+    "title": "48-letni psycholog z silnym bólem klatki piersiowej",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000333",
+    "keywords": "ICD10 [I21] Myocardial Infarction",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000333"
+  },
+  {
+    "title": "35-letnia pacjentka z opuchniętą szyją",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000334",
+    "keywords": "ICD10 [C81] Hodgkin-lymphoma",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000334"
+  },
+  {
+    "title": "54-letni elektryk z bólem głowy...",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000335",
+    "keywords": "ICD10 [I70.1] Atherosclerosis of renal artery",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000335"
+  },
+  {
+    "title": "Cornel Ionac",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000336",
+    "keywords": "Abdominal tumor / dysuria",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000336"
+  },
+  {
+    "title": "62-letnia pacjentka z bólami żołądka",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000337",
+    "keywords": "ICD10 [K26] Ulcus duodeni",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000337"
+  },
+  {
+    "title": "77-letni pacjent z krwistymi wymiotami",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000338",
+    "keywords": "ICD10 [K25] Gastric ulcer",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000338"
+  },
+  {
+    "title": "71-letnia kobieta z bólem głowy",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000339",
+    "keywords": "ICD10 [I60] Subarachnoidal bleeding",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000339"
+  },
+  {
+    "title": "Niemowlę z gorączką",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000340",
+    "keywords": "ICD10 [N13] Obstructive and reflux uropathy",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000340"
+  },
+  {
+    "title": "William Connors",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000341",
+    "keywords": "Stroke",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000341"
+  },
+  {
+    "title": "Doris  Radu",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000342",
+    "keywords": "Abdominal pain / Vomiting",
+    "language": "English",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000342"
+  },
+  {
+    "title": "Istvan Horvath",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000343",
+    "keywords": "Sinusitis / Skin infection",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000343"
+  },
+  {
+    "title": "Liana Cristea",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000344",
+    "keywords": "Periarticular pain / Soft tissue rheumatic disorders",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000344"
+  },
+  {
+    "title": "Mihaela Pop",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000345",
+    "keywords": "Dysuria / Urinary Infection",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000345"
+  },
+  {
+    "title": "Mara Ionescu",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000346",
+    "keywords": "Pelvic  pain",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000346"
+  },
+  {
+    "title": "Nora-Jasmine Nicula",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000347",
+    "keywords": "Polyuria / polydipsia, weight loss",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000347"
+  },
+  {
+    "title": "Stefan Partenie",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000348",
+    "keywords": "Skin erythema and dermatitis",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000348"
+  },
+  {
+    "title": "Cornelius Ionac",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000349",
+    "keywords": "Abdominal tumor / dysuria",
+    "language": "English",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000349"
+  },
+  {
+    "title": "Pertu Ioan Faragau",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000350",
+    "keywords": "Skin infection / sepsis / hyperglicemia",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000350"
+  },
+  {
+    "title": "Petrica Ioan Faragau",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000351",
+    "keywords": "Skin infection / sepsis / hyperglicemia",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000351"
+  },
+  {
+    "title": "Perut Ioan Faragau",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000352",
+    "keywords": "Skin infection / sepsis / hyperglicemia",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000352"
+  },
+  {
+    "title": "Silviuta Vlasa",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000353",
+    "keywords": "Abnormal serum calcium",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000353"
+  },
+  {
+    "title": "Silva Vlasa",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000354",
+    "keywords": "Abnormal serum calcium",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000354"
+  },
+  {
+    "title": "Sil Vlasa",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000355",
+    "keywords": "Abnormal serum calcium",
+    "language": "English",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000355"
+  },
+  {
+    "title": "Bogdan Fodor",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000356",
+    "keywords": "Headache / Erectile dysfunction",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000356"
+  },
+  {
+    "title": "Dorin Vornicu",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000357",
+    "keywords": "Hallucinations / Insomnia",
+    "language": "Romanian",
+    "institution": "UMF Cluj",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000357"
+  },
+  {
+    "title": "77-letni pacjent z krwistymi wymiotami",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000408",
+    "keywords": "ICD10 [K25] Gastric ulcer",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000408"
+  },
+  {
+    "title": "Axel [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000410",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000410"
+  },
+  {
+    "title": "Agneta [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000411",
+    "keywords": "Dentristry, endodonty, caries, parodontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000411"
+  },
+  {
+    "title": "Bernando [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000413",
+    "keywords": "Dentristry, endodonty, caries, parodontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000413"
+  },
+  {
+    "title": "Betsy [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000414",
+    "keywords": "Dentristry, endodonty, caries, PTR, depuration",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000414"
+  },
+  {
+    "title": "Charlotte [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000415",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000415"
+  },
+  {
+    "title": "Emma [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000416",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000416"
+  },
+  {
+    "title": "Gunnar [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000417",
+    "keywords": "Dentristry, endodonty, caries, parodontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000417"
+  },
+  {
+    "title": "Harry [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000418",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000418"
+  },
+  {
+    "title": "Henning [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000419",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000419"
+  },
+  {
+    "title": "Inger [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000420",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000420"
+  },
+  {
+    "title": "Jan-Olof [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000421",
+    "keywords": "Dentristry, endodonty, caries, muntorrhet",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000421"
+  },
+  {
+    "title": "Karl-Arne [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000422",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000422"
+  },
+  {
+    "title": "Kenneth [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000423",
+    "keywords": "Dentristry, endodonty, caries, parodontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000423"
+  },
+  {
+    "title": "Kerstin [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000424",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000424"
+  },
+  {
+    "title": "Laila [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000425",
+    "keywords": "Dentristry, endodonty, caries, parodontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000425"
+  },
+  {
+    "title": "Marcus [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000426",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000426"
+  },
+  {
+    "title": "Margaretha [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000427",
+    "keywords": "Dentristry, endodonty, caries, extraktion",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000427"
+  },
+  {
+    "title": "Marita [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000428",
+    "keywords": "Dentristry, endodonty, caries, parodontit, Extraktion",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000428"
+  },
+  {
+    "title": "Marja [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000429",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000429"
+  },
+  {
+    "title": "Nadja [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000430",
+    "keywords": "Dentristry, endodonty, caries, plack",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000430"
+  },
+  {
+    "title": "Pedro [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000431",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000431"
+  },
+  {
+    "title": "Per [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000432",
+    "keywords": "Dentristry, endodonty, caries, parodontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000432"
+  },
+  {
+    "title": "Roland [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000433",
+    "keywords": "Dentristry, endodonty, caries, parodontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000433"
+  },
+  {
+    "title": "Sahdo [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000434",
+    "keywords": "Dentristry, endodonty, caries, parodontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000434"
+  },
+  {
+    "title": "Silvia [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000435",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000435"
+  },
+  {
+    "title": "Sonja [Dentistry]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000436",
+    "keywords": "Dentristry, endodonty, caries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000436"
+  },
+  {
+    "title": "Agneta [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000437",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene, cervikalkaries",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000437"
+  },
+  {
+    "title": "Bernando [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000438",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000438"
+  },
+  {
+    "title": "Betsy [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000439",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000439"
+  },
+  {
+    "title": "Charlotte [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000440",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000440"
+  },
+  {
+    "title": "Gunnar [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000441",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000441"
+  },
+  {
+    "title": "Harry [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000442",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000442"
+  },
+  {
+    "title": "Henning [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000443",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000443"
+  },
+  {
+    "title": "Karl-Arne [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000444",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000444"
+  },
+  {
+    "title": "Kerstin [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000445",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000445"
+  },
+  {
+    "title": "Laila [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000446",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000446"
+  },
+  {
+    "title": "Marcus [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000447",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000447"
+  },
+  {
+    "title": "Nadja [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000448",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000448"
+  },
+  {
+    "title": "Pedro [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000449",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000449"
+  },
+  {
+    "title": "Roland [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000450",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000450"
+  },
+  {
+    "title": "Sahdo [Dental hygiene]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000451",
+    "keywords": "Dentristry, endodonty, caries, Dental hygiene",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000451"
+  },
+  {
+    "title": "Agneta [Dental technology]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000452",
+    "keywords": "Dentristry, endodonty, caries, Dental technology, paradontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000452"
+  },
+  {
+    "title": "Bernando [Dental technology]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000453",
+    "keywords": "Dentristry, endodonty, caries, Dental technology, parodontit, kariesrisk",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000453"
+  },
+  {
+    "title": "Betsy [Dental technology]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000454",
+    "keywords": "Dentristry, endodonty, caries, Dental technology, PTR, depuration, fluorlackning",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000454"
+  },
+  {
+    "title": "Kerstin [Dental technology]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000455",
+    "keywords": "Dentristry, endodonty, caries, Dental technology, parodontit, PTR",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000455"
+  },
+  {
+    "title": "Roland [Dental technology]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000456",
+    "keywords": "Dentristry, endodonty, caries, Dental technology, parodontit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000456"
+  },
+  {
+    "title": "Doris [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000457",
+    "keywords": "Internal medicine, Instabil angina, KOL",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000457"
+  },
+  {
+    "title": "Hanna [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000458",
+    "keywords": "Internal medicine, Polymyalgia reumatika, Temporalisarterit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000458"
+  },
+  {
+    "title": "Karolina [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000459",
+    "keywords": "Internal medicine, Myelom",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000459"
+  },
+  {
+    "title": "Sofia [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000460",
+    "keywords": "Internal medicine, Mb Crohn",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000460"
+  },
+  {
+    "title": "Sture [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000461",
+    "keywords": "Internal medicine.stroke",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000461"
+  },
+  {
+    "title": "Catherine [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000462",
+    "keywords": "Pediatrics medicine, Bacterial meningits, Lumbar punction, viral meningitis",
+    "language": "German",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000462"
+  },
+  {
+    "title": "Frida Jansson [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000463",
+    "keywords": "Nursing, Akut lungödem, Tungandning, oro",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000463"
+  },
+  {
+    "title": "Karin Andersson preop [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000464",
+    "keywords": "Nursing, Appendicit, Smärta, Illamående, Risk för aspiration.",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000464"
+  },
+  {
+    "title": "Karin Andersson postop [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000465",
+    "keywords": "Nursing, appendectomi, anestesi, Risk för ofri luftväg",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000465"
+  },
+  {
+    "title": "Unknown identity [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000466",
+    "keywords": "Nursing, Hypoglykemi",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000466"
+  },
+  {
+    "title": "Maria Andersson [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000467",
+    "keywords": "Nursing",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000467"
+  },
+  {
+    "title": "Peter Kask [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000468",
+    "keywords": "Nursing",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000468"
+  },
+  {
+    "title": "Alicia [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000469",
+    "keywords": "Nursing pediatrics, sepsis med encephalitbasis, Akut lymfatisk Leukemi, pneumokocksepsis",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000469"
+  },
+  {
+    "title": "Erik [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000470",
+    "keywords": "Nursing pediatrics, Mononukleos, Kissing disease, Epstein-Barr virus, Tonsillit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000470"
+  },
+  {
+    "title": "Filip [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000471",
+    "keywords": "Nursing pediatrics, Appendicit, Körtelbuk",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000471"
+  },
+  {
+    "title": "Hugo [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000472",
+    "keywords": "Nursing pediatrics, Appendicit, Körtelbuk",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000472"
+  },
+  {
+    "title": "Ida [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000473",
+    "keywords": "Nursing pediatrics, Neuroborrelios, Bell´s pares, CNS-tumör",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000473"
+  },
+  {
+    "title": "Johan [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000474",
+    "keywords": "Nursing pediatrics, PNE, nocturn enures",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000474"
+  },
+  {
+    "title": "Kalle [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000475",
+    "keywords": "Nursing pediatrics, Nydebuterad astma",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000475"
+  },
+  {
+    "title": "Karolina [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000476",
+    "keywords": "Nursing pediatrics, anafylaxi, urticaria, angioödem",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000476"
+  },
+  {
+    "title": "Maya [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000477",
+    "keywords": "Nursing pediatrics, Infantil spasm, Wests syndrom",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000477"
+  },
+  {
+    "title": "Nils [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000478",
+    "keywords": "Nursing pediatrics, Wilms´ tumör, njurcancer, nefroblastom",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000478"
+  },
+  {
+    "title": "Stina [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000479",
+    "keywords": "Nursing pediatrics, Tonsillectomi, apnéattacker",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000479"
+  },
+  {
+    "title": "Viktor [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000480",
+    "keywords": "Nursing pediatrics, Diabetes mellitus",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000480"
+  },
+  {
+    "title": "Rasmus home [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000481",
+    "keywords": "Nursing pediatrics, infektion, UVI-pyelonefrit, Meningit, Sepsis",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000481"
+  },
+  {
+    "title": "Rasmus hospital [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000482",
+    "keywords": "Nursing pediatrics, Pyelonefrit",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000482"
+  },
+  {
+    "title": "Ebba [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000483",
+    "keywords": "Nursing pediatrics, Komplext hjärtfel, pulmonalisatresi, coarctatio aortae",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000483"
+  },
+  {
+    "title": "Winston [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000484",
+    "keywords": "Nursing pediatrics, Respiratory Distress Syndrome, Prematuritet",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000484"
+  },
+  {
+    "title": "Eivor Andersson [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000485",
+    "keywords": "Nursing geriatric, Fatigue, Nedsatt rörelseförmåga, Nedsatt aptit, Muntorrhet, Ofrivillig viktnedgång, Andningsbesvär, Hosta, Orkeslöshet",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000485"
+  },
+  {
+    "title": "Vera Ek [Nursing]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000486",
+    "keywords": "Nursing geriatric, Fatigue, Nedsatt rörelseförmåga, Övervikt, Nedsatt aptit, Muntorrhet",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000486"
+  },
+  {
+    "title": "Albin [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000487",
+    "keywords": "Pediatrics medicine, Glomerulonefrit, nefropatia epidemica, serologi",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000487"
+  },
+  {
+    "title": "Christer [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000488",
+    "keywords": "Medicine, Uremi, prostatahyperplasi",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000488"
+  },
+  {
+    "title": "Gösta [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000489",
+    "keywords": "Medicine, Lupus antikoagulans, APTT, non-Hodgkinlymfom",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000489"
+  },
+  {
+    "title": "Iris [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000490",
+    "keywords": "Medicine, DVT, rhabdomyolys",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000490"
+  },
+  {
+    "title": "Isabell [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000491",
+    "keywords": "Medicine, Nefrotiskt syndrom",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000491"
+  },
+  {
+    "title": "Johanna [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000492",
+    "keywords": "Medicine, DVT, Albumin,",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000492"
+  },
+  {
+    "title": "Klara [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000493",
+    "keywords": "Medicine, IgA-nefrit, njurbiopsi",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000493"
+  },
+  {
+    "title": "Mary [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000494",
+    "keywords": "Medicine, Stroke, paradoxal embolisering, lungemboli",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000494"
+  },
+  {
+    "title": "Peter [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000495",
+    "keywords": "Medicine, DVT, erysipelas",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000495"
+  },
+  {
+    "title": "Sara [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000496",
+    "keywords": "Medicine, Intoxikation, Rhabdomyolys, tubulär nekros",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000496"
+  },
+  {
+    "title": "Mr Angermeier (non-linear)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000502",
+    "keywords": "Chest Pain, Angina Pectoris, Shock",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000502"
+  },
+  {
+    "title": "Mr Angermeier (linear)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000503",
+    "keywords": "Chest Pain, Angina Pectoris, Shock",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000503"
+  },
+  {
+    "title": "Mr Maller (non-linear)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000504",
+    "keywords": "Tachycardia, Cardiology, Cariomyopathy, ECG, Myocarditis",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000504"
+  },
+  {
+    "title": "Mr Maller (linear)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000505",
+    "keywords": "Tachycardia, Cardiology, Cariomyopathy, ECG, Myocarditis",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000505"
+  },
+  {
+    "title": "Isabelle Karani",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000506",
+    "keywords": "Dyspnea, Pulmonary Atelectasis, Breast Neoplasms, Pneumonia",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000506"
+  },
+  {
+    "title": "Edward Payne",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000507",
+    "keywords": "Tuberculosis, Fever, Weight loss, Infection, Inflammation, Hypersensitivity",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000507"
+  },
+  {
+    "title": "Mr Horcek (enquiry-based feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000510",
+    "keywords": "Cardiology, Emergency Medicine, ECG",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000510"
+  },
+  {
+    "title": "Mr Horcek (linear feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000511",
+    "keywords": "Cardiology, Emergency Medicine, ECG",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000511"
+  },
+  {
+    "title": "Baby Daniel (enquiry-based feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000512",
+    "keywords": "Hypoglycemia, hepatomegaly, Vomiting, projectile, glycogen storage disease",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000512"
+  },
+  {
+    "title": "Baby Daniel (linear feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000513",
+    "keywords": "Hypoglycemia, hepatomegaly, Vomiting, projectile, glycogen storage disease",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000513"
+  },
+  {
+    "title": "Sophie Lindham (enquiry-based feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000514",
+    "keywords": "Cystic Fibrosis",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000514"
+  },
+  {
+    "title": "Sophie Lindham  (linear feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000515",
+    "keywords": "Cystic Fibrosis",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000515"
+  },
+  {
+    "title": "Catherine Miller",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000523",
+    "keywords": "Meningitis, Bacterial Meningitis, Sepsis",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000523"
+  },
+  {
+    "title": "Anna-Lena Olofsson",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000524",
+    "keywords": "Failure to thrive",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000524"
+  },
+  {
+    "title": "John M",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000525",
+    "keywords": "Idiopathic thrombocytopenic purpura, Bruises, Immunoglobulin",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000525"
+  },
+  {
+    "title": "Florian",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000526",
+    "keywords": "Prematurity, Respiratory distress syndrome, Hyaline membrane disease, Pneumothorax, Sepsis",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000526"
+  },
+  {
+    "title": "Oga",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000527",
+    "keywords": "Tuberculosis, Respiratory distress syndrome, Cough",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000527"
+  },
+  {
+    "title": "Andy Dufrayne (video)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000529",
+    "keywords": "COPD, DNAR, Resuscitation, Capacity Assessment, Ethics",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000529"
+  },
+  {
+    "title": "Andy Dufrayne (text-based)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000530",
+    "keywords": "COPD, DNAR, Resuscitation, Capacity Assessment, Ethics",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000530"
+  },
+  {
+    "title": "Jake Clark",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000531",
+    "keywords": "Ethics, Professionalism, Drugs, Alcohol, Student",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000531"
+  },
+  {
+    "title": "47-letnia nauczycielka z gorączką",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000555",
+    "keywords": "ICD10 [B50] Malaria",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000555"
+  },
+  {
+    "title": "40-letni inżynier skarżący się na osłabienie, zaburzenia widzenia i zwiększone pragnienie",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000556",
+    "keywords": "ICD10 [E11] Diabetes mellitus",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000556"
+  },
+  {
+    "title": "17-letni pacjent z urazem łydki",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000557",
+    "keywords": "ICD10 [S80] Fracture of the tibia",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000557"
+  },
+  {
+    "title": "Alfred Stokes",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000558",
+    "keywords": "Pneumonia, Capacity Assessment, Advanced Directive, Ethics",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000558"
+  },
+  {
+    "title": "Frau Fuchs",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000559",
+    "keywords": "Diagnosis: Malaria, complicated, Symptoms: fever, headaches, fatigue, medications: Chinin, Doxycyclin, lab data: blood smear",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000559"
+  },
+  {
+    "title": "Frau Kippan",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000561",
+    "keywords": "Diagnosis: Anaphylaxie ICD-10: T88.6(anaphylaxsis), Symptoms: Dyspnoe (dyspnea), Urikaria (urticaria), Lidödem (angioedema), Procedures: blood gas analysis, peak expiratory flow rate, Medications: glucocorticoids, epinephrine, histamine H1 antagonist, histamine H2 antagonist, Lab data: blood gas analysis",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000561"
+  },
+  {
+    "title": "Frau Kramer",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000562",
+    "keywords": "Diagnosis: Lungenembolie ICD-10: I26.9(pulmonary embolism), Symptoms: Dyspnoe (dyspnea), Unruhe (restlessness), Angst (fear), Procedures: Compression duplex sonography, blood gas analysis, Medications: Low weight molecular heparin, oral anticoagulation, Lab data: blood gas analysis",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000562"
+  },
+  {
+    "title": "Frau Zollner",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000563",
+    "keywords": "Diagnosis: Colitis, ulerative, Symptoms: blutiger Durchfall (diarrhea, bloody), Anämie (anemia), Gewichtsverlust (weight loss), Procedures: ultrasonography, abdominal; colonoscopy, Medications: prednisolone, mesalamine, Lab data: stool culture, blood cell count,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000563"
+  },
+  {
+    "title": "Herr Enzderer",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000564",
+    "keywords": "Diagnosis: ICD-10 F10.4 alcohol withdrawal delirium, Symptoms: seizure, hallucinations, psychomotor agitation, Procedures: computed tomography, Medications: Diazepam , Haloperidol , Thiamine, Lab data: blood cell count, blood chemistry analysis,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000564"
+  },
+  {
+    "title": "Herr Krämer",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000565",
+    "keywords": "Diagnosis: Myocardial infarction, Symptoms: chest pain, nausea, vomiting, Procedures: electrocardiography, Angioplasty, Transluminal, Percutaneous Coronary, Medications: adrenergic beta antagonists, oxygen, clopidogrel, salicylic acid, heparin, morphine, Hydroxymethylglutaryl-CoA Reductase Inhibitors, influenza vaccines, Lab data: troponin, creatin kinase, creatine kinase MB form,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000565"
+  },
+  {
+    "title": "Herr Landa",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000566",
+    "keywords": "Diagnosis: Arthritis, Infectious , Gonorrhea, Symptoms: swollen, warm knee; fever;  Procedures: arthrocentesis, Medications:  Antibiotics, Cephalosporin, Lab data: leucocytes, CRP",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000566"
+  },
+  {
+    "title": "Herr Müller",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000567",
+    "keywords": "Diagnosis: Diabetes mellitus, Type 1, Symptoms: thirst, polyuria, weight loss, Medications:  insulin, fluid therapy, Lab data: blood glucose, urinalysis, serum electrolytes, blood gas analysis,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000567"
+  },
+  {
+    "title": "Herr Murasic",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000568",
+    "keywords": "Diagnosis: aortic valve stenosis, Symptoms: chest pain, dyspnea, Procedures: electrocardiography, echocardiography, stent implantation, Medications: endocarditis prophylaxis,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000568"
+  },
+  {
+    "title": "Herr Reitmeier",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000569",
+    "keywords": "Diagnosis: carcinoma, bronchogenic, hypercalcemia, Symptoms: weight loss, low back pain, dyspnea, Procedures: x-rays, computed tomography, Medications: furosemide, fluid therapy, disphosphonates, Lab data: blood cell count, blood chemistry tests, blood coagulation tests",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000569"
+  },
+  {
+    "title": "Herr Thälmann",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000570",
+    "keywords": "Diagnosis: Ureterolithiasis with colic, urinary tract, Symptoms: colic, nausea, vomiting, Procedures: ultrasonography, Medications: analgesia, antiemetics, adrenergic alpha – antagonists, butylscopolammonium bromide,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000570"
+  },
+  {
+    "title": "19 year old student( #1)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000571",
+    "keywords": "Diagnosis: Anorexia nervosa, Symptoms: asthenia, weight loss, Procedures: enteral nutrition, (commitment of mentally ill) involuntary hospitalization",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000571"
+  },
+  {
+    "title": "19 year old student (#2)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000572",
+    "keywords": "Diagnosis: Infectious mononucleosis, Symptoms: pharyngitis, fatigue, fever, Procedures: ultrasonography,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000572"
+  },
+  {
+    "title": "65 year old female pensioner",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000573",
+    "keywords": "Diagnosis: artrioventricular block (3rd degree), Symptoms: Schwindel (dizziness), Bewußtlosigkeit (unconsciousness), Procedures: electrocardiography, ambulators; pacemaker, artificial",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000573"
+  },
+  {
+    "title": "68 year old lady",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000574",
+    "keywords": "Diagnosis: choledocholithiasis, Symptoms: abdominal pain, fever, Procedures: ultrasonography, Cholangiopancreatography, Endoscopic Retrograde; Medications: fluid therapy, butylscopolammine bromide, anti-bacterial agents, Lab data: blood cell count, c - reactive protein, clinical enzyme tests,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000574"
+  },
+  {
+    "title": "Mrs. Fox",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000575",
+    "keywords": "Diagnosis: Malaria, complicated, Symptoms: fever, headaches, fatigue, medications: Chinin, Doxycyclin, lab data: blood smear",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000575"
+  },
+  {
+    "title": "Mrs. Kippan",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000576",
+    "keywords": "Diagnosis: Anaphylaxie ICD-10: T88.6(anaphylaxsis), Symptoms: Dyspnoe (dyspnea), Urikaria (urticaria), Lidödem (angioedema), Procedures: blood gas analysis, peak expiratory flow rate, Medications: glucocorticoids, epinephrine, histamine H1 antagonist, histamine H2 antagonist, Lab data: blood gas analysis",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000576"
+  },
+  {
+    "title": "Mrs. Smith",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000577",
+    "keywords": "Diagnosis: Lungenembolie ICD-10: I26.9(pulmonary embolism), Symptoms: Dyspnoe (dyspnea), Unruhe (restlessness), Angst (fear), Procedures: Compression duplex sonography, blood gas analysis, Medications: Low weight molecular heparin, oral anticoagulation, Lab data: blood gas analysis",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000577"
+  },
+  {
+    "title": "Ms. Customs",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000578",
+    "keywords": "Diagnosis: Colitis, ulerative, Symptoms: blutiger Durchfall (diarrhea, bloody), Anämie (anemia), Gewichtsverlust (weight loss), Procedures: ultrasonography, abdominal; colonoscopy, Medications: prednisolone, mesalamine, Lab data: stool culture, blood cell count,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000578"
+  },
+  {
+    "title": "Mr. Enzderer",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000579",
+    "keywords": "Diagnosis: ICD-10 F10.4 alcohol withdrawal delirium, Symptoms: seizure, hallucinations, psychomotor agitation, Procedures: computed tomography, Medications: Diazepam , Haloperidol , Thiamine, Lab data: blood cell count, blood chemistry analysis,",
+    "language": "German",
+    "institution": "Universität Witten/Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000579"
+  },
+  {
+    "title": "Joseph Murray",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000583",
+    "keywords": "Ethics, Law, Organ Transplantation, Confidentiality, Diagnosis of Death",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000583"
+  },
+  {
+    "title": "Joseph Ansah",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000588",
+    "keywords": "Malaria, Cough, Quinine, Plasmodium falciparum",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000588"
+  },
+  {
+    "title": "Joanna Milowicz (enquiry-based feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000589",
+    "keywords": "Pregnancy, obstetrics, cardiotocography",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000589"
+  },
+  {
+    "title": "Joanna Milowicz (linear feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000590",
+    "keywords": "Pregnancy, obstetrics, cardiotocography",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000590"
+  },
+  {
+    "title": "Mrs Grazyna (enquiry-based feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000592",
+    "keywords": "Premature Labour, UTI in pregnancy",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000592"
+  },
+  {
+    "title": "Mrs Grazyna (linear feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000593",
+    "keywords": "Premature Labour, UTI in pregnancy",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000593"
+  },
+  {
+    "title": "Jake Clark (video)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000597",
+    "keywords": "Professionalism, Morals, Addiction, University, Intoxicants",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000597"
+  },
+  {
+    "title": "Derek Bryant Tutorial 1 (scored)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000598",
+    "keywords": "Abdominal Pain, Diabetes Mellitus, Hypertension, Geriatrics",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000598"
+  },
+  {
+    "title": "Brenda WIlliams",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000599",
+    "keywords": "Ethics, Law, Confidentiality",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000599"
+  },
+  {
+    "title": "Derek Bryant Tutorial 2 (scored)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000600",
+    "keywords": "Abdominal Pain, Diabetes Mellitus, Hypertension, Geriatrics",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000600"
+  },
+  {
+    "title": "Henry Rodin Tutorial 1 (non-linear)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000604",
+    "keywords": "Streptococcus pneumoniae, Influenza, Pneumonia, Cytokines",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000604"
+  },
+  {
+    "title": "Henry Rodin Tutorial 2 (non-linear)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000605",
+    "keywords": "Streptococcus pneumoniae, Influenza, Pneumonia, Cytokines",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000605"
+  },
+  {
+    "title": "Henry Rodin Tutorial 1 (linear)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000607",
+    "keywords": "Streptococcus pneumoniae, Influenza, Pneumonia, Cytokines",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000607"
+  },
+  {
+    "title": "Henry Rodin Tutorial 2 (linear)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000608",
+    "keywords": "Streptococcus pneumoniae, Influenza, Pneumonia, Cytokines",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000608"
+  },
+  {
+    "title": "Pat Hurst (non-linear, enriched)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000610",
+    "keywords": "Back pain, Bone, Multiple Myeloma, Bence Jones Protein",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000610"
+  },
+  {
+    "title": "Pat Hurst (non-linear, text-based)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000611",
+    "keywords": "Back pain, Bone, Multiple Myeloma, Bence Jones Protein",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000611"
+  },
+  {
+    "title": "Samuel Bryant (reduced feedback)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000613",
+    "keywords": "Asthma, Lung, Salbutamol, Dyspnea",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000613"
+  },
+  {
+    "title": "Samuel Bryant (scored)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000614",
+    "keywords": "Asthma, Lung, Salbutamol, Dyspnea",
+    "language": "English",
+    "institution": "St George's, University of London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000614"
+  },
+  {
+    "title": "Catherine (Fieber)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000615",
+    "keywords": "[G00.9] Bakterielle Meningitis, nicht näher bezeichnet",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000615"
+  },
+  {
+    "title": "John (Blaue Flecken)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000616",
+    "keywords": "[D69.3] Idiopathische thrombozytopenische Purpura",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000616"
+  },
+  {
+    "title": "Anna-Lena (Durchfälle)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000617",
+    "keywords": "[K90.0] Zöliakie",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000617"
+  },
+  {
+    "title": "Öga (Husten)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000618",
+    "keywords": "[A16.2] Lungentuberkulose ohne Angabe einer bakteriologischen, molekularbiologischen oder histologischen Sicherung",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000618"
+  },
+  {
+    "title": "Florian (Neugeborenes)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000619",
+    "keywords": "[P22.9] Atemnot [Respiratory distress] beim Neugeborenen, nicht näher bezeichnet",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000619"
+  },
+  {
+    "title": "Jugendliche mit allgemeiner Abgeschlagenheit - Vorklinik",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000620",
+    "keywords": "[M32.9] Lupus erythematodes disseminatus",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000620"
+  },
+  {
+    "title": "Kleinkind mit grobmotorischer Ungeschicklichkeit - Vorklinik",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000621",
+    "keywords": "[G71.0] Duchenne-Muskeldystrophie",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000621"
+  },
+  {
+    "title": "Generalisierte Schwäche - Vorklinik",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000622",
+    "keywords": "[G70.0] Myasthenia gravis",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000622"
+  },
+  {
+    "title": "Schulkind mit braunem Urin und Verschlechterung des AZ (DGKJ)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000623",
+    "keywords": "[N00.9] Akute Glomerulonephritis",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000623"
+  },
+  {
+    "title": "Kleinkind mit Ödemen ÜV 09 (DGKJ)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000624",
+    "keywords": "[N04.9] Nephrotisches Syndrom",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000624"
+  },
+  {
+    "title": "SkillsLab - Lumbalpunktion",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000625",
+    "keywords": "Bakterielle Meningitis",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000625"
+  },
+  {
+    "title": "SkillsLab - Blasenpunktion",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000626",
+    "keywords": "[N39.0] Harnwegsinfektion",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000626"
+  },
+  {
+    "title": "SkillsLab - Reanimation Säugling",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000627",
+    "keywords": "[T71] Atmung Behinderung, mechanisch, mit Mangel, Sauerstoff, systemisch",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000627"
+  },
+  {
+    "title": "SkillsLab - Reanimation Kleinkind",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000628",
+    "keywords": "[T75.1] Ertrinken und nichttödliches Untertauchen",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000628"
+  },
+  {
+    "title": "2jähriger Junge mit Erbrechen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000629",
+    "keywords": "[E25] Erbrechen, Kleinkind",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000629"
+  },
+  {
+    "title": "65jähriger Patient mit Sehstörungen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000630",
+    "keywords": "[I65.2] Stenose Arteria carotis interna",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000630"
+  },
+  {
+    "title": "Kopfschmerzen bei einer 71-jährigen Frau",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000631",
+    "keywords": "[I60.9] Subarachnoidal Blutung",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000631"
+  },
+  {
+    "title": "Junge Patientin mit Kopfschmerzen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000632",
+    "keywords": "[G44.0] Cluster-Kopfschmerz",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000632"
+  },
+  {
+    "title": "30jährige Patientin mit Taubheitsgefühl in der Hand",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000633",
+    "keywords": "[G56.2] Nervus ulnaris Kompression",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000633"
+  },
+  {
+    "title": "Patientin mit Oberbauchbeschwerden und Übelkeit",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000634",
+    "keywords": "[K86.1] Chronische Pankreatitis",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000634"
+  },
+  {
+    "title": "Kindergartenkind in komatösem Zustand - Vorklinik",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000635",
+    "keywords": "[E72.2] Harnstoffzyklusstörung",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000635"
+  },
+  {
+    "title": "52jähriger Patient mit Sodbrennen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000636",
+    "keywords": "[K21] Gastroösophageale Refluxkrankheit",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000636"
+  },
+  {
+    "title": "61jähriger Patient mit massiven Bauchschmerzen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000637",
+    "keywords": "[C19] Kolorektales Karzinom",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000637"
+  },
+  {
+    "title": "70jährige Patientin mit Schwindel/Synkope",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000638",
+    "keywords": "[D13.7] Insulinom",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000638"
+  },
+  {
+    "title": "Gastrale Schmerzen einer 62-jährigen Patientin",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000639",
+    "keywords": "[K26.0] Akutes Ulcus duodeni, mit Blutung",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000639"
+  },
+  {
+    "title": "Patient mit Oberbauchbeschwerden",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000640",
+    "keywords": "[K21.9] Gastroösophageal Refluxkrankheit",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000640"
+  },
+  {
+    "title": "Patientin mit multiplen Artefakten im Gesicht",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000641",
+    "keywords": "[C19] Kolorektal, Karzinom",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000641"
+  },
+  {
+    "title": "6-monatiger Säugling mit rezidivierendem Erbrechen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000642",
+    "keywords": "[E74.0] Glykogenspeicherkrankheit [Glykogenose]",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000642"
+  },
+  {
+    "title": "Säugling mit Fieber",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000643",
+    "keywords": "[N12] Pyelonephritis",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000643"
+  },
+  {
+    "title": "12-jähriges Mädchen mit Schwellung am rechten Knie",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000644",
+    "keywords": "[C41.9] Osteosarkom",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000644"
+  },
+  {
+    "title": "Jugendliche mit vermehrter Behaarung",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000645",
+    "keywords": "[L68.9] Haarwuchs, vermehrt",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000645"
+  },
+  {
+    "title": "Jugendliche mit Schmerzen im Sprunggelenk",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000646",
+    "keywords": "[Q78.4] Enchondromatose",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000646"
+  },
+  {
+    "title": "17-jähriger Jugendlicher, der gerne Fußball spielt",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000647",
+    "keywords": "[S82.9] Fraktur Unterschenkel",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000647"
+  },
+  {
+    "title": "19-jährige nach schwerem Verkehrsunfall",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000648",
+    "keywords": "[Z04.3] Unfallbedingt, Verletzung, mit Abklärung a.n.k.",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000648"
+  },
+  {
+    "title": "Säugling mit Erbrechen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000649",
+    "keywords": "[E74.1] Hereditäre Fruktoseintoleranz",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000649"
+  },
+  {
+    "title": "Schulkind mit nächtlichen Kopfschmerzen und Übelkeit",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000650",
+    "keywords": "[A69.2] Neuroborreliose",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000650"
+  },
+  {
+    "title": "Schulkind mit Fieber",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000651",
+    "keywords": "[A01.0] Typhus (Fieber)  abdominalis, abdominal",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000651"
+  },
+  {
+    "title": "Schulkind mit schlechtem Wachstum und Gewichtszunahme",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000652",
+    "keywords": "[E06.3] Hashimoto-Thyreoiditis",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000652"
+  },
+  {
+    "title": "13-jähriger Junge mit abdominellen Schmerzen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000653",
+    "keywords": "[K35.1] Appendizitis akut mit Abszess, peritoneal",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000653"
+  },
+  {
+    "title": "Kleinkind mit Dyspnoe",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000654",
+    "keywords": "[T17.5] Fremdkörper im Bronchus",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000654"
+  },
+  {
+    "title": "12-jähriger Junge mit Fußbeschwerden",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000655",
+    "keywords": "[M86] Osteomyelitis",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000655"
+  },
+  {
+    "title": "Vergesslichkeit (Vorklinik)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000656",
+    "keywords": "[G30] Alzheimer-Krankheit",
+    "language": "German",
+    "institution": "Zentrum für virtuelle Patienten, Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000656"
+  },
+  {
+    "title": "Mr.Krämer",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000660",
+    "keywords": "Diagnosis: Myocardial infarction, Symptoms: chest pain, nausea, vomiting, Procedures: electrocardiography, Angioplasty, Transluminal, Percutaneous Coronary, Medications: adrenergic beta antagonists, oxygen, clopidogrel, salicylic acid, heparin, morphine, Hydroxymethylglutaryl-CoA Reductase Inhibitors, influenza vaccines, Lab data: troponin, creatin kinase, creatine kinase MB form,",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000660"
+  },
+  {
+    "title": "Mr. Landa",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000661",
+    "keywords": "Diagnosis: Arthritis, Infectious , Gonorrhea, Symptoms: swollen, warm knee; fever;  Procedures: arthrocentesis, Medications:  Antibiotics, Cephalosporin, Lab data: leucocytes, CRP",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000661"
+  },
+  {
+    "title": "Mr. Müller",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000662",
+    "keywords": "Diagnosis: Diabetes mellitus, Type 1, Symptoms: thirst, polyuria, weight loss, Medications:  insulin, fluid therapy, Lab data: blood glucose, urinalysis, serum electrolytes, blood gas analysis,",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000662"
+  },
+  {
+    "title": "Mr. Murasic",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000663",
+    "keywords": "Diagnosis: aortic valve stenosis, Symptoms: chest pain, dyspnea, Procedures: electrocardiography, echocardiography, stent implantation, Medications: endocarditis prophylaxis,",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000663"
+  },
+  {
+    "title": "Mr. Reitmeier",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000664",
+    "keywords": "Diagnosis: carcinoma, bronchogenic, hypercalcemia, Symptoms: weight loss, low back pain, dyspnea, Procedures: x-rays, computed tomography, Medications: furosemide, fluid therapy, disphosphonates, Lab data: blood cell count, blood chemistry tests, blood coagulation tests",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000664"
+  },
+  {
+    "title": "Mr. Thälmann",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000665",
+    "keywords": "Diagnosis: Ureterolithiasis with colic, urinary tract, Symptoms: colic, nausea, vomiting, Procedures: ultrasonography, Medications: analgesia, antiemetics, adrenergic alpha – antagonists, butylscopolammonium bromide,",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000665"
+  },
+  {
+    "title": "19 year old student( #1)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000666",
+    "keywords": "Diagnosis: Anorexia nervosa, Symptoms: asthenia, weight loss, Procedures: enteral nutrition, (commitment of mentally ill) involuntary hospitalization",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000666"
+  },
+  {
+    "title": "19 year old student (#2)",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000667",
+    "keywords": "Diagnosis: Infectious mononucleosis, Symptoms: pharyngitis, fatigue, fever, Procedures: ultrasonography,",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000667"
+  },
+  {
+    "title": "65 year old female pensioner",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000668",
+    "keywords": "Diagnosis: artrioventricular block (3rd degree), Symptoms: Schwindel (dizziness), Bewußtlosigkeit (unconsciousness), Procedures: electrocardiography, ambulators; pacemaker, artificial",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000668"
+  },
+  {
+    "title": "68 year old lady",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000669",
+    "keywords": "Diagnosis: choledocholithiasis, Symptoms: abdominal pain, fever, Procedures: ultrasonography, Cholangiopancreatography, Endoscopic Retrograde; Medications: fluid therapy, butylscopolammine bromide, anti-bacterial agents, Lab data: blood cell count, c - reactive protein, clinical enzyme tests,",
+    "language": "English",
+    "institution": "Ludwig Maximilians Universität",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000669"
+  },
+  {
+    "title": "Ängstliche Mutter",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000680",
+    "keywords": "Fieber",
+    "language": "German",
+    "institution": "Uni Heidelberg , LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000680"
+  },
+  {
+    "title": "Karin",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000681",
+    "keywords": "Dyspnoe",
+    "language": "German",
+    "institution": "Karolinska Institutet Stockholm, LMU",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000681"
+  },
+  {
+    "title": "Schicksal einer Familie",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000682",
+    "keywords": "Erschöpfung",
+    "language": "German",
+    "institution": "Ludwig-Maximilians-Universität, Warwick University",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000682"
+  },
+  {
+    "title": "Niesende Kleintierhändlerin",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000683",
+    "keywords": "Niesen",
+    "language": "German",
+    "institution": "Medizinische Klinik der Universität München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000683"
+  },
+  {
+    "title": "Fressattacken einer 36-jährigen Sekretärin",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000684",
+    "keywords": "Fressattacken",
+    "language": "German",
+    "institution": "Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000684"
+  },
+  {
+    "title": "Herzjagen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000685",
+    "keywords": "Palpitationen",
+    "language": "German",
+    "institution": "",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000685"
+  },
+  {
+    "title": "Gewichtszunahme nach Schwangerschaft",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000686",
+    "keywords": "Gewichtszunahme",
+    "language": "German",
+    "institution": "Med. Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000686"
+  },
+  {
+    "title": "Wechseljahre oder hoher Blutdruck?",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000687",
+    "keywords": "",
+    "language": "German",
+    "institution": "Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000687"
+  },
+  {
+    "title": "Lehrer mit Schwindelattacken",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000688",
+    "keywords": "Schwindel",
+    "language": "German",
+    "institution": "",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000688"
+  },
+  {
+    "title": "Blutdruckspitze beim Betriebsarzt",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000689",
+    "keywords": "Hypertonie",
+    "language": "German",
+    "institution": "",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000689"
+  },
+  {
+    "title": "Starke Kopfschmerzen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000690",
+    "keywords": "Kopfschmerzen",
+    "language": "German",
+    "institution": "Med. Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000690"
+  },
+  {
+    "title": "Schwitzende Gärtnerin",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000691",
+    "keywords": "Schwitzen",
+    "language": "German",
+    "institution": "Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000691"
+  },
+  {
+    "title": "Durstiger Versicherungsvertreter",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000692",
+    "keywords": "",
+    "language": "German",
+    "institution": "Med. Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000692"
+  },
+  {
+    "title": "Lehrerin in anderen Umständen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000693",
+    "keywords": "Schwangerschaft",
+    "language": "German",
+    "institution": "Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000693"
+  },
+  {
+    "title": "Zu viel ist zu viel",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000694",
+    "keywords": "Schmerzen",
+    "language": "German",
+    "institution": "Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000694"
+  },
+  {
+    "title": "Kalte Füße eines Briefträgers",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000695",
+    "keywords": "",
+    "language": "German",
+    "institution": "Klinikum Innenstadt der LMU",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000695"
+  },
+  {
+    "title": "Schwarze Zehen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000696",
+    "keywords": "",
+    "language": "German",
+    "institution": "Med. Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000696"
+  },
+  {
+    "title": "Unklare Kopfschmerzen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000697",
+    "keywords": "Kopfschmerzen",
+    "language": "German",
+    "institution": "Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000697"
+  },
+  {
+    "title": "Juristin mit Kinderwunsch",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000698",
+    "keywords": "Amenorrhoe",
+    "language": "German",
+    "institution": "null",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000698"
+  },
+  {
+    "title": "Unfall mit Folgen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000699",
+    "keywords": "Konzentrationsstörung",
+    "language": "German",
+    "institution": "Med. Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000699"
+  },
+  {
+    "title": "Süße Bedienung",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000700",
+    "keywords": "",
+    "language": "German",
+    "institution": "Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000700"
+  },
+  {
+    "title": "Nächtliche Schweißausbrüche im Pflegeheim",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000701",
+    "keywords": "Schweissausbrüche",
+    "language": "German",
+    "institution": "Md. Klinik Innenstadt der LMU",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000701"
+  },
+  {
+    "title": "Müder Techniker",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000702",
+    "keywords": "",
+    "language": "German",
+    "institution": "Med. Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000702"
+  },
+  {
+    "title": "Bauchschmerzen einer Bürokauffrau",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000703",
+    "keywords": "Abdominelle Schmerzen",
+    "language": "German",
+    "institution": "Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000703"
+  },
+  {
+    "title": "Traurige Hausfrau",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000704",
+    "keywords": "Depression",
+    "language": "German",
+    "institution": "Med. Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000704"
+  },
+  {
+    "title": "Bei der Gartenarbeit",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000705",
+    "keywords": "",
+    "language": "German",
+    "institution": "Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000705"
+  },
+  {
+    "title": "Komplizierte Krampfadern",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000706",
+    "keywords": "",
+    "language": "German",
+    "institution": "Medizinische Klinik - Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000706"
+  },
+  {
+    "title": "Lagerarbeiter mit Rückenschmerzen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000707",
+    "keywords": "Rückenschmerzen",
+    "language": "German",
+    "institution": "Med. Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000707"
+  },
+  {
+    "title": "Schwindelige Floristin",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000708",
+    "keywords": "Kopfschmerzen",
+    "language": "German",
+    "institution": "",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000708"
+  },
+  {
+    "title": "Wallfahrt mit Beinproblemen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000709",
+    "keywords": "Beinschmerzen",
+    "language": "German",
+    "institution": "",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000709"
+  },
+  {
+    "title": "Neugeborenes mit gelblichem Hautkolorit",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000710",
+    "keywords": "Trinkschwäche",
+    "language": "German",
+    "institution": "Universität Heidelberg, LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000710"
+  },
+  {
+    "title": "Meine Oma fährt Motorrad",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000711",
+    "keywords": "Schulterschmerzen",
+    "language": "German",
+    "institution": "",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000711"
+  },
+  {
+    "title": "Die Lernstörung",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000712",
+    "keywords": "Müdigkeit",
+    "language": "German",
+    "institution": "",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000712"
+  },
+  {
+    "title": "Der arabische Karate-Kämpfer",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000713",
+    "keywords": "Trauma",
+    "language": "German",
+    "institution": "Chir. Klinik der LMU",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000713"
+  },
+  {
+    "title": "Skaten ist gefährlich!",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000714",
+    "keywords": "Trauma",
+    "language": "German",
+    "institution": "",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000714"
+  },
+  {
+    "title": "Joseph Ansah",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000715",
+    "keywords": "Fieber",
+    "language": "English",
+    "institution": "Med. Klinik Innenstadt der LMU München, KI Stockholm",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000715"
+  },
+  {
+    "title": "Patient with upper abdominal pain and nausea",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000716",
+    "keywords": "Upper abdominal pain",
+    "language": "English",
+    "institution": "Universität Münster, LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000716"
+  },
+  {
+    "title": "30 year old patient with upper abdominal pain",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000717",
+    "keywords": "Upper abdominal pain",
+    "language": "English",
+    "institution": "Universität Münster, LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000717"
+  },
+  {
+    "title": "24 year old female patient with bloody diarrhea",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000719",
+    "keywords": "bloody diarrhea",
+    "language": "English",
+    "institution": "Universität Münster",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000719"
+  },
+  {
+    "title": "61 year old patient with abdominal pain",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000720",
+    "keywords": "Abdominal pain",
+    "language": "English",
+    "institution": "Universität Münster",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000720"
+  },
+  {
+    "title": "Ein Rat suchender Allgemeinarzt",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000721",
+    "keywords": "Trinkschwäche",
+    "language": "German",
+    "institution": "St. Georges University London, Medizinische Klinik derLMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000721"
+  },
+  {
+    "title": "Carol J",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000722",
+    "keywords": "overweight during pregnancy",
+    "language": "English",
+    "institution": "KI Stockholm, Med. Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000722"
+  },
+  {
+    "title": "Carol Jones",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000723",
+    "keywords": "Übergewicht in der Schwangerschaft",
+    "language": "German",
+    "institution": "KI Stockholm, LMU",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000723"
+  },
+  {
+    "title": "Schulkind mit Exanthem",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000724",
+    "keywords": "Exanthem",
+    "language": "German",
+    "institution": "Universitätsklinikum Heidelberg, Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000724"
+  },
+  {
+    "title": "Kleinkind mit Erbrechen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000725",
+    "keywords": "Erbrechen",
+    "language": "German",
+    "institution": "Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000725"
+  },
+  {
+    "title": "Moses painful shoulder",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000726",
+    "keywords": "painful shoulder",
+    "language": "English",
+    "institution": "Med. Klinik Innenstadt der LMU München, St. Georges University London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000726"
+  },
+  {
+    "title": "Carolyn",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000727",
+    "keywords": "learning disability",
+    "language": "English",
+    "institution": "St. Georges University London, Medizinische Klinik derLMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000727"
+  },
+  {
+    "title": "Moses Schulterschmerzen",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000728",
+    "keywords": "Schulterschmerzen",
+    "language": "German",
+    "institution": "Med. Klinik Innenstadt der LMU München, St. Georges University London",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000728"
+  },
+  {
+    "title": "Neugeborenes mit Dyspnoe",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000729",
+    "keywords": "Dyspnoe",
+    "language": "German",
+    "institution": "Universitätsklinikum Heidelberg, Medizinische Klinik Innenstadt der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000729"
+  },
+  {
+    "title": "Eine 19jährige schwangere Patientin",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000730",
+    "keywords": "Wehen",
+    "language": "German",
+    "institution": "380;mowska, A. Markow, A. Stacho&",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000730"
+  },
+  {
+    "title": "Thomas Miller",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000731",
+    "keywords": "Fever",
+    "language": "English",
+    "institution": "University of Pittsburgh, Medizinische Klinik der LMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000731"
+  },
+  {
+    "title": "Henry Rodin",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000732",
+    "keywords": "cough",
+    "language": "English",
+    "institution": "St. Georges University London, Medizinische Klinik derLMU München",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000732"
+  },
+  {
+    "title": "Schulkind mit braunem Urin",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000733",
+    "keywords": "brauner Urin",
+    "language": "German",
+    "institution": "Universitätsklinikum Heidelberg",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000733"
+  },
+  {
+    "title": "Student with sore throat",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000735",
+    "keywords": "sore throat",
+    "language": "English",
+    "institution": "Med. Klinik Innenstadt",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000735"
+  },
+  {
+    "title": "45-letnia gospodyni domowa z kołataniem serca",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000786",
+    "keywords": "ICD10 [E03.9] Hypothyearoidism",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000786"
+  },
+  {
+    "title": "39-letnia pacjentka z powiększoną śledzioną",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000787",
+    "keywords": "ICD10 [C92.1] Chronic myeloid leukemia",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000787"
+  },
+  {
+    "title": "43-letnia pacjentka z rakiem piersi i uczuciem duszności",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000788",
+    "keywords": "ICD10 [J98.1, C34] Atelektasis, lung tumor",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000788"
+  },
+  {
+    "title": "69-letnia pacjentka z zaburzeniami ruchu",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000789",
+    "keywords": "ICD10 [K29.4] Chronic atrophic gastritis",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000789"
+  },
+  {
+    "title": "Słony pocałunek",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000790",
+    "keywords": "ICD10 [E84] Cystic Fibrosis",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000790"
+  },
+  {
+    "title": "35-letni agent ubezpieczeniowy z dusznością i gorączką",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000791",
+    "keywords": "ICD10 [I50] Heart failure",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000791"
+  },
+  {
+    "title": "54-letni pacjent z bólami głowy",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000792",
+    "keywords": "ICD10 [D35] Macroprolactinoma",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000792"
+  },
+  {
+    "title": "28-letni pacjent z bladością, dusznością i nudnościami",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000793",
+    "keywords": "ICD10 [N19] Renal insufficiency",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000793"
+  },
+  {
+    "title": "30-letni pacjent z wysokim poziomem cukru we krwi",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000794",
+    "keywords": "ICD10 [E22] Acromegaly",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000794"
+  },
+  {
+    "title": "29-letnia pacjentka - czerwone oko",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000795",
+    "keywords": "ICD10 [H20] Iridocyclitis",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000795"
+  },
+  {
+    "title": "30-letnia pacjentka z drętwieniem ręki",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000796",
+    "keywords": "ICD10 [G56] Carpal canal syndrome",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000796"
+  },
+  {
+    "title": "Młoda pacjentka z bólem głowy",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000797",
+    "keywords": "ICD10 [G44] Cluster headache",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000797"
+  },
+  {
+    "title": "Kaszląca dziewczynka",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000798",
+    "keywords": "ICD10 [E84] Cystic Fibrosis",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000798"
+  },
+  {
+    "title": "6-miesięczna dziewczynka z drgawkami",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000799",
+    "keywords": "ICD10 [G00] Bacterial meningitis",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000799"
+  },
+  {
+    "title": "58-letnia pacjentka z żółtaczką",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000800",
+    "keywords": "ICD10 [K75.4] Autoimmune Hepatitis",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000800"
+  },
+  {
+    "title": "21-letni pacjent z biegunką",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000801",
+    "keywords": "ICD10 [K90] Celiac disease",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000801"
+  },
+  {
+    "title": "59-letnia pacjentka z zawrotami głowy i zaczerwienieniem twarzy Część 1",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000802",
+    "keywords": "ICD10 [D45] Polycythaemia vera",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000802"
+  },
+  {
+    "title": "19-letnia pacjentka zagrożona porodem przedwczesnym",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000803",
+    "keywords": "ICD10 [O60] Preterm labour",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000803"
+  },
+  {
+    "title": "35-letni agent ubezpieczeniowy z dusznością i gorączką",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000804",
+    "keywords": "ICD10 [I50] Heart failure",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000804"
+  },
+  {
+    "title": "48-letni psycholog z silnym bólem klatki piersiowej",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000805",
+    "keywords": "ICD10 [I21] Myocardial Infarction",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000805"
+  },
+  {
+    "title": "5-miesięczne niemowlę z gorączką",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000806",
+    "keywords": "ICD10 [G00] Bacterial meningitis",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000806"
+  },
+  {
+    "title": "25-letnia kobieta z atopowym zapaleniem skóry",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000807",
+    "keywords": "ICD10 [L20] Atopic eczema",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000807"
+  },
+  {
+    "title": "Nagłe trudności w oddychaniu i rytm cwałowy serca po wypadku komunikacyjnym na motorze",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000808",
+    "keywords": "ICD10 [I48] Atrial fibrillation",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000808"
+  },
+  {
+    "title": "Upadek z wysokości – urazy wielonarządowe",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000809",
+    "keywords": "ICD10 [S72] Fracture of the femur",
+    "language": "Polish",
+    "institution": "Jagiellonian University Medical College",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000809"
+  },
+  {
+    "title": "Spyros [Medicine]",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000810",
+    "keywords": "Internal medicine, typ-2 diabetiker, neuropati, nefropati, hypertoni, hyperlipidemi, ischemisk hjärtsjukdom, KOL",
+    "language": "Swedish",
+    "institution": "Karolinska Institutet",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000810"
+  },
+  {
+    "title": "Itching",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000816",
+    "keywords": "Itching, Hodgkin\\'s disease, C81.9",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000816"
+  },
+  {
+    "title": "Vomiting infant",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000817",
+    "keywords": "Vomiting, Congenital hypertrophic pyloric stenosis, Q40.0",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000817"
+  },
+  {
+    "title": "Heart murmur",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000818",
+    "keywords": "Heart murmur, Aortic stenosis, I35.0, Heart failure, I50",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000818"
+  },
+  {
+    "title": "Chest pain",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000819",
+    "keywords": "Chest pain, Pneumothorax, J93.9",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000819"
+  },
+  {
+    "title": "Shortness of breath",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000820",
+    "keywords": "Shortness of breath, Chronic bronchitis, J42, heart failure,  I50",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000820"
+  },
+  {
+    "title": "Abdominal pain",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000821",
+    "keywords": "Abdominal pain, Cognitive error, Acute appendicitis, K35",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000821"
+  },
+  {
+    "title": "Shortness of breath",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000822",
+    "keywords": "Shortness of breath, Cognitive error, Foreign body in bronchus, T17.5",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000822"
+  },
+  {
+    "title": "Red foot",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000823",
+    "keywords": "Red foot, Cognitive error, Osteomyelitis, M86",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000823"
+  },
+  {
+    "title": "Abdominal pain with fever",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000824",
+    "keywords": "Abdominal pain with fever, Pneumonia,  J18.9",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000824"
+  },
+  {
+    "title": "Probabilsitic VP 1",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000825",
+    "keywords": "Probabilistic vp, Unspecified diabetes mellitus, E14",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000825"
+  },
+  {
+    "title": "Probabilsitic VP 2",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000826",
+    "keywords": "Probabilistic vp, Unspecified diabetes mellitus, E14",
+    "language": "English",
+    "institution": "Universiteit Maastricht",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000826"
+  },
+  {
+    "title": "Frau Müller",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000827",
+    "keywords": "dyspnoe, cardiac insufficiency, Pulmonary oedema",
+    "language": "German",
+    "institution": "Universität Witten/ Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000827"
+  },
+  {
+    "title": "Herr Wehrle",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000828",
+    "keywords": "dysphagia, tracheotomy, pneumonia, hemiplegia",
+    "language": "German",
+    "institution": "Universität Witten/ Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000828"
+  },
+  {
+    "title": "Herr Weiss",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000829",
+    "keywords": "cerebral infarct, stomach tube, aspiration pneumonia, stroke unit",
+    "language": "German",
+    "institution": "Universität Witten/ Herdecke",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000829"
+  },
+  {
+    "title": "31 year old female who is post partum and unwell.",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000847",
+    "keywords": "post partum pregnancy shortness of breath pneumothorax chest drain prescribing clinical decision making clinical reasoning differential diagnosis breathless chest pain imaging chest xray VTE thromboembolism DVT",
+    "language": "English",
+    "institution": "University of Warwick",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000847"
+  },
+  {
+    "title": "60 year old male, Mr Cooper, breathless.",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000848",
+    "keywords": "anaemia, iron deficiency, endoscopy, breathless, endoscopy, colonoscopy, gastroenterology, NSAID, clinical reasoning",
+    "language": "English",
+    "institution": "University of Warwick",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000848"
+  },
+  {
+    "title": "61 Year female joint pain, GP walk in centre.",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000849",
+    "keywords": "polyarthritis, arthraligia, arthritis, rheumatoid, inflammatory arthritis, sjorgrens syndrome, connective tissue disease, lupus, SLE, musculoskeletal, GALS, seronegative, psoriatic arthritis, erosions, rheumatoid, rheumatology, oligoarthritis, monoarthritis.",
+    "language": "English",
+    "institution": "University of Warwick",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000849"
+  },
+  {
+    "title": "42 year old Wadih Hakim, resuscitation.",
+    "detail_url": "https://virtualpatients.eu/referatory/?vpId=evip:vp:1000850",
+    "keywords": "ALS video resuscitation Chest Pain ECG VF VT PEA arrest cardiac clinical decision PCI thrombolysis chest pain Advanced life support ventricular fibrillation ventricular tachycardia pulseless electrical, activity",
+    "language": "English",
+    "institution": "University of Warwick",
+    "license": "",
+    "resource_url": null,
+    "external_player_url": "https://virtualpatients.eu/referatory/?contentPackageFor=evip:vp:1000850"
+  }
+]
